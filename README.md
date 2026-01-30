@@ -1,13 +1,116 @@
-<h1 align="center">Hi 👋, I'm Touta Louay</h1>
-<h3 align="center">Passionate about data exploitation and Artificial Intelligence, I am dedicating my engineering career in Morocco to exploring the new frontiers of this ever-evolving field.</h3>
+# 👋 Bonjour, je suis Touta Louay
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=louay07-git" alt="louay07-git" /></a> </p>
+## 🚀 Profil Ingénieur IA & Data Scientist
 
-- 📫 How to reach me **Louay_Touta@outlook.fr**
+Bienvenue sur mon profil GitHub 👨‍💻  
+Je suis **Ingénieur en Intelligence Artificielle**, avec des diplômes en **Data Science**, passionné par l’analyse de données, le Machine Learning et le Deep Learning.
 
-<h3 align="left">Connect with me:</h3>
+Ce GitHub a pour objectif de **présenter mes compétences techniques, mes projets et mes expérimentations** dans le domaine de l’IA.
+
+---
+
+## 🧠 Compétences principales
+
+- 🤖 Intelligence Artificielle (IA)
+- 📊 Data Science
+- 🧠 Machine Learning (ML)
+- 🔥 Deep Learning (DL)
+- 💬 Large Language Models (LLM)
+
+---
+
+## 🛠️ Technologies & Outils
+
+### 💻 Langages de programmation
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <strong>Python</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <strong>C</strong>
+</p>
+
+---
+
+### 📚 Bibliothèques & Frameworks
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <strong>NumPy</strong>
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <strong>Pandas</strong>
+</p>
+
+<p align="left">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
+  <strong>Seaborn</strong>
+</p>
+
+<p align="left">
+  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40"/>
+  <strong>Matplotlib</strong>
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+  <strong>Scikit-learn</strong>
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <strong>TensorFlow</strong>
+</p>
+
+---
+
+### 🖥️ Environnements
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40"/>
+  <strong>Windows</strong>
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <strong>Linux</strong>
+</p>
+
+---
+
+## 📂 Types de projets présents sur ce GitHub
+
+- Projets de **Machine Learning**
+- Modèles de **Deep Learning**
+- Projets autour des **LLM**
+- Analyses de données (Data Science)
+- Projets basés sur des datasets **Kaggle**
+
+---
+
+## 🎯 Objectif de ce profil
+
+- Mettre en valeur mes **compétences en IA & Data**
+- Construire un **portfolio professionnel**
+- Partager mes projets et mon apprentissage continu
+- Collaborer sur des projets innovants
+
+---
+
+## 📜 Certifications & Formation
+
+- 🎓 Certificat d’Ingénieur en Intelligence Artificielle  
+- 🎓 Diplômes en Data Science  
+
+---
+
+## 📫 Contact
+
+📌 GitHub : ce profil  
+📌 Ouvert aux collaborations, projets et opportunités en IA & Data Science  
+
+---
+
+⭐ N’hésitez pas à explorer mes repositories et à laisser une étoile si un projet vous intéresse !
